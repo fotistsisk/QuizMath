@@ -1,0 +1,83 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">QuizSmartphones</string>
+    <string name="title">MATH TEST</string>
+    <string name="username">Username:</string>
+    <string name="startbutton">Begin</string>
+    <string name="q">Questions</string>
+    <string name="q1">1. The monthly membership fee for an online television
+and movie service is $9.80. The cost of viewing
+television shows online is included in the
+membership fee, but there is an additional fee
+of $1.50 to rent each movie online. For one month,
+Jill’s membership and movie rental fees were $12.80.
+How many movies did Jill rent online that month?</string>
+    <string name="q1_1">1</string>
+    <string name="q1_2">2</string>
+    <string name="q1_3">3</string>
+    <string name="q1_4">4</string>
+    <string name="q3">3. If a 3-pound pizza is sliced in half and each half is
+sliced into thirds, what is the weight, in ounces, of
+each of the slices? (1 pound = 16 ounces)</string>
+    <string name="q3_1">4</string>
+    <string name="q3_2">6</string>
+    <string name="q3_3">8</string>
+    <string name="q3_4">16</string>
+    <string name="q2">2. One of the requirements for becoming a court
+reporter is the ability to type 225 words per minute.
+Donald can currently type 180 words per minute,
+and believes that with practice he can increase his
+typing speed by 5 words per minute each month.
+Which of the following represents the number of
+words per minute that Donald believes he will be able
+to type m months from now?</string>
+    <string name="q2_1">5 + 180m</string>
+    <string name="q2_2">225 + 5m</string>
+    <string name="q2_3">180 + 5m</string>
+    <string name="q2_4">180 - 5m</string>
+    <string name="q4">4. Nick surveyed a random sample of the freshman
+class of his high school to determine whether the Fall
+Festival should be held in October or November. Of
+the 90 students surveyed, 25.6% preferred October.
+Based on this information, about how many students
+in the entire 225-person class would be expected to
+prefer having the Fall Festival in October?</string>
+    <string name="q4_1">50</string>
+    <string name="q4_2">60</string>
+    <string name="q4_3">75</string>
+    <string name="q4_4">80</string>
+    <string name="q5">5. The density of an object is equal to the mass of the
+object divided by the volume of the object. What is
+the volume, in milliliters, of an object with a mass of
+24 grams and a density of 3 grams per milliliter?</string>
+    <string name="q5_1">0.125</string>
+    <string name="q5_2">8</string>
+    <string name="q5_3">21</string>
+    <string name="q5_4">72</string>
+    <string name="q6">6. Last week Raul worked 11 more hours than
+Angelica. If they worked a combined total of
+59 hours, how many hours did Angelica work last
+week?</string>
+    <string name="q6_1">24</string>
+    <string name="q6_2">35</string>
+    <string name="q6_3">40</string>
+    <string name="q6_4">48</string>
+    <string name="results">Results</string>
+    <string name="q1r">Q1: <xliff:g id="q1_2" example="true">%b</xliff:g></string>
+    <string name="q2r">Q2: <xliff:g id="q2_3" example="true">%b</xliff:g></string>
+    <string name="q3r">Q3: <xliff:g id="q3_3" example="true">%b</xliff:g></string>
+    <string name="q4r">Q4: <xliff:g id="q4_2" example="true">%b</xliff:g></string>
+    <string name="q5r">Q5: <xliff:g id="q5_2" example="true">%b</xliff:g></string>
+    <string name="q6r">Q6: <xliff:g id="q6_1" example="true">%b</xliff:g></string>
+    <string name="q7r">Q7: <xliff:g id="q7_1" example="true">%b</xliff:g></string>
+    <string name="done">done</string>
+    <string name="reset">reset</string>
+    <string name="congrats">Congratulations </string>
+    <string name="good_job">Good Job </string>
+    <string name="not_that_bad">Not that bad </string>
+    <string name="study_more">You need to study more </string>
+    <string name="q7">x^2 + 2x - 3 = 0. x =</string>
+    <string name="q7_1">1</string>
+    <string name="q7_2">-3</string>
+    <string name="q7_3">2</string>
+    <string name="q7_4">9</string>
+</resources>
